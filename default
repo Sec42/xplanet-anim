@@ -1,0 +1,11 @@
+satellite_file=satellites/iridium
+[earth]
+"Earth"
+map=world/earth.jpg
+night_map=world/night.jpg
+bump_map=world/bump.jpg
+specular_map=world/specular.jpg
+cloud_map=world/clouds.jpg
+cloud_gamma=0.2
+bump_scale=1
+shade=10
